@@ -1,12 +1,10 @@
 streamlit
+openai
+python-dotenv
 pandas
 numpy
 faiss-cpu
 sentence-transformers
-gdown
-google-generativeai
-transformers
 torch
-openai
-dotenv
+scikit-learn
 openpyxl
